@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTRuejdudWY3bzF6YXl0Z25oYXd3Nm1qNXZ0eGJhYWM2d3hwMnlpdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.webp"  />
+</div>
+
+###
+
 <h1 align="center">Hi 👋, I'm Maryam</h1>
 <h3 align="center">A passionate _______ who enjoys creating meaningful things via code!</h3>
 
