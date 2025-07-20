@@ -6,9 +6,10 @@
 
 <h1 align="center">Hi, I'm Maryam</h1>
 <h3 align="center">A passionate _______ who enjoys creating meaningful things via _____!</h3>
-<h4 align="center">I feel I'm changing often, so the blanks are intentional ☺️</h4>
+<h4 align="center">I feel I'm changing often, so blanks are intentional</h4>
+<h5 align="center">...or an excuse...</h5>
 
-- ⚡ Fun fact **I think I think too much, but nowadays, who isn't?**
+- 👨‍💻 All of my projects are available at: **loremipsum**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
