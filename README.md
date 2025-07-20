@@ -4,9 +4,11 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Maryam</h1>
-<h3 align="center">A passionate _______ who enjoys creating meaningful things via code!</h3>
+<h1 align="center">Hi, I'm Maryam</h1>
+<h3 align="center">A passionate _______ who enjoys creating meaningful things via _____!</h3>
+<h4 align="center">I feel I'm changing often, so the blanks are intentional 🙂‍↕️</h4>
 
+- ⚡ Fun fact **I think I think too much**
 - ⚡ Fun fact **I think I think too much**
 
 <h3 align="left">Connect with me:</h3>
