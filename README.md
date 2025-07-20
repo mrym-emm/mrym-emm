@@ -17,9 +17,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> 
+
 
 <h6>AI/ML</h6>
+<p align="left"> 
 <img alt="python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /><img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white"/><img alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white"/>
 </p>
 
