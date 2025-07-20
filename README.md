@@ -24,13 +24,15 @@
 <img alt="python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /><img alt="scikit-learn" src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white"/><img alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white"/>
 </p>
 
-<p align="left"> 
+
 <h6>Web Dev</h6>
+<p align="left"> 
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><img alt="css3" src="https://img.shields.io/badge/-CSS3-4285f4?style=flat-square&logo=css3&logoColor=white" /><img alt="javascript" src="https://img.shields.io/badge/-Javascript-e5ce27?style=flat-square&logo=Javascript&logoColor=white" />
 </p>
 
-<p align="left">
+
 <h6>Misc but handy</h6>
+<p align="left">
 <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" /><img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" /><img alt="blender" src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white" />
 </p>
 
