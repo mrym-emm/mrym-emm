@@ -9,7 +9,8 @@
 <h4 align="center">I feel I'm changing often, so blanks are intentional</h4>
 <h5 align="center">...or an excuse...</h5>
 
-- 👨‍💻 All of my projects are available at: **loremipsum**
+- 👨‍💻 All of my projects are available at: **[My Portfolio](https://mrymmhmdportfolio.vercel.app/)**
+
 
 
 <p align="left">
