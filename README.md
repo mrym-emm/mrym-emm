@@ -41,3 +41,7 @@
     </tr>
   </table>
 </div>
+
+<hr/>
+
+<footer>Icons : [syvixor: Skills Icon](https://github.com/syvixor/skills-icons) </footer>
