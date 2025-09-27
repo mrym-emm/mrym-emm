@@ -8,7 +8,7 @@
 <h3 align="center">A passionate human bean who enjoys creating things I like from code!</h3>
  
 
-- 👨‍💻 All of my projects (to name a few) are available at: **[My Portfolio](https://maryam-mo-portfolio.vercel.app/){:target="_blank" rel="noopener noreferrer"}**
+- 👨‍💻 All of my projects (to name a few) are available at: **[My Portfolio](https://maryam-mo-portfolio.vercel.app/)**
 
 
 
