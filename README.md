@@ -22,19 +22,22 @@
 
 
 
-## 📊 GitHub Stats
+## 📊 Stats & Snakes
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrym-emm&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrym-emm/mrym-emm/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrym-emm/mrym-emm/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/mrym-emm/mrym-emm/output/github-snake.svg" />
-  </picture>
-</div>
-
-## 🐍 Contribution Snake
-<div align="center">
-  
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrym-emm&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+      </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrym-emm/mrym-emm/output/github-snake-dark.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrym-emm/mrym-emm/output/github-snake.svg" />
+          <img alt="github-snake" src="https://raw.githubusercontent.com/mrym-emm/mrym-emm/output/github-snake.svg" />
+        </picture>
+      </td>
+    </tr>
+  </table>
 </div>
