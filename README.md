@@ -17,22 +17,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-
-
 <h6>AI/ML</h6>
-<p align="left">
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,sklearn)](https://skillicons.dev)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow)](https://skillicons.dev)
 
 <h6>Web Dev</h6>
-<p align="left">
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs)](https://skillicons.dev)
-</p>
 
 <h6>Misc but handy</h6>
-<p align="left">
 [![My Skills](https://skillicons.dev/icons?i=mysql,figma,blender,git,vscode)](https://skillicons.dev)
-</p>
 
 ## 📊 GitHub Stats
 
