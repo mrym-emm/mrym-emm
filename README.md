@@ -15,7 +15,7 @@
 <p align="left">
 </p>
 
-## 📊 Tools & Framework
+## 🔧 Tools & Framework
 
 
 [![Skills](https://skills.syvixor.com/api/icons?perline=7&i=python,googlecolaboratory,jupyter,pytorch,tensorflow,huggingface,html,css3,javascript,typescript,reactjs,tailwindcss,astro,fastapi,googlegemini,googlecloud,mysql,firebase,supabase,figma)](https://github.com/syvixor/skills-icons)
