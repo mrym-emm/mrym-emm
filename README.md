@@ -44,4 +44,4 @@
 
 <hr/>
 
-<footer>Icons : [Skills Icon](https://github.com/syvixor/skills-icons) </footer>
+Icons : [Skills Icon](https://github.com/syvixor/skills-icons)  
