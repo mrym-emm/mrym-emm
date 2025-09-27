@@ -15,9 +15,11 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 📊 Language, Tools & Framework
 
 <h6>AI/ML</h6>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=python,tensorflow)](https://skillicons.dev)
 
 <h6>Web Dev</h6>
