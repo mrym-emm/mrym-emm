@@ -15,14 +15,10 @@
 <p align="left">
 </p>
 
-## 📊 Technologies I work with
+## 📊 Tools & Framework
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,tensorflow)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,codepen,react,astro)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,figma,blender,git)](https://skillicons.dev)
+[![Skills](https://skills.syvixor.com/api/icons?perline=7&i=python,googlecolaboratory,jupyter,pytorch,tensorflow,huggingface,html,css3,javascript,typescript,reactjs,tailwindcss,astro,fastapi,googlegemini,googlecloud,mysql,firebase,supabase,figma)](https://github.com/syvixor/skills-icons)
 
 
 
