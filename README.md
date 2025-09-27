@@ -26,6 +26,8 @@
 <h6>Misc but handy</h6>
 [![My Skills](https://skillicons.dev/icons?i=mysql,figma,blender,git,vscode)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ## 📊 GitHub Stats
 
 <div align="center">
