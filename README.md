@@ -9,7 +9,7 @@
 
  
 
-- 👨‍💻 All of my projects (to name a few) are available at: **[My Portfolio](https://maryam-mo-portfolio.vercel.app/)**
+- 👨‍💻 **[My Portfolio](https://maryam-mo-portfolio.vercel.app/)**
 
 
 
