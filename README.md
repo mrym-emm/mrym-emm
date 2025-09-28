@@ -6,11 +6,7 @@
 
 <h1 align="center">Hi, I'm Maryam</h1>
 <h3 align="center">A passionate 🫘human bean🫘 who enjoys creating things I like from code!</h3>
-
  
-
-- 👨‍💻 **[My Portfolio](https://maryam-mo-portfolio.vercel.app/)**
-
 
 
 <p align="left">
