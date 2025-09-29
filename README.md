@@ -23,12 +23,9 @@
 
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
+   
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrym-emm&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-      </td>
-      <td>
+     
         <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrym-emm/mrym-emm/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mrym-emm/mrym-emm/output/pacman-contribution-graph.svg">
@@ -37,9 +34,7 @@
 
 _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
-      </td>
-    </tr>
-  </table>
+     
 </div>
 
 <hr/>
